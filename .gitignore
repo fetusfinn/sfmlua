@@ -1,0 +1,16 @@
+# Build and Release Folders
+Debug/
+lua/Debug/
+SFMLProject1/Debug/
+
+Release/
+lua/Release/
+SFMLProject1/Release/
+
+x64/
+lua/x64/
+SFMLProject1/x64/
+
+# Other files and folders
+.settings/
+.vs/
