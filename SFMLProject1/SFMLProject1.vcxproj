@@ -24,7 +24,7 @@
     <ProjectGuid>{EFC22825-ABCC-45BA-B8AA-54C76B0AEFE4}</ProjectGuid>
     <RootNamespace>SFMLSetup</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>sfmlbase</ProjectName>
+    <ProjectName>sfmlua</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
